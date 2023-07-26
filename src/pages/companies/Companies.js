@@ -19,7 +19,7 @@ function Companies() {
     },
 
     {
-      header: "Location",
+      header: "Location", 
       field: "location",
       isSelected: true,
       isChecked: true,
